@@ -1,0 +1,14 @@
+{
+    "name": "phpforxuweitao/demo",
+    "description": "composer demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xuweitao",
+            "email": "xuweitao1139204319@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
